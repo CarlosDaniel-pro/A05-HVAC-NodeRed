@@ -31,5 +31,4 @@ Proyecto desarrollado en Node-RED para simular y supervisar un sistema de climat
 ## Control de versiones
 Este proyecto utiliza Git y GitHub para registrar cambios, publicar versiones mediante push y recuperar actualizaciones mediante pull.
 
-## Autor
-[Escribe tu nombre]
+#Carlos Celi
